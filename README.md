@@ -15,7 +15,7 @@ case of the C# application, dependencies are automatically downloaded by
 # C#
 
 ```
-$ nix-shell
+$ cd csharp/
 direnv: ...
 $ dotnet run
 info: Microsoft.Hosting.Lifetime[0]
