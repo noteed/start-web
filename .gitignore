@@ -1,0 +1,5 @@
+*.*.swp
+csharp/bin/
+csharp/obj/
+python/__pycache__/
+python/app.db
